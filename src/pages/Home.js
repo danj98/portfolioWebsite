@@ -10,7 +10,7 @@ function Home() {
       <div className="headerContainer">
         <h1> Dan Joar Heimvik </h1>
         <p> Software development and cyber security student </p>
-        <Link to="/menu">
+        <Link to="/resume">
           <button> My resume </button>
         </Link>
       </div>

@@ -15,26 +15,16 @@ function About() {
           <img src={ PersonalImage } />
         </div>
         <div>
-          <h2> Pee </h2>
+          <h2> Who am I? </h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-            mollitia, molestiae quas vel sint commodi repudiandae consequuntur
-            voluptatum laborum numquam blanditiis harum quisquam eius sed odit
-            fugiat iusto fuga praesentium optio, eaque rerum! Provident similique
-            accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut
-            molestias architecto voluptate aliquam nihil, eveniet aliquid culpa
-            officia aut! Impedit sit sunt quaerat, odit, tenetur error, harum
-            nesciunt ipsum debitis quas aliquid. Reprehenderit, quia. Quo neque
-            error repudiandae fuga? Ipsa laudantium molestias eos sapiente
-            officiis modi at sunt excepturi expedita sint? Sed quibusdam
-            recusandae alias error harum maxime adipisci amet laborum.
-            Perspiciatis minima nesciunt dolorem! Officiis iure rerum voluptates a
-            cum velit
+			I am Dan Joar, currently pursuing a masters degree in Software development.
+			My interests include programming, microcontrollers/arduino, electronics
+			and probably some other stuff.
           </p>
-          <h2> Poo </h2>
+          <h2> What is this website? </h2>
           <p>
-            cum cum cumcum cum, cumcumcum cum cumcum cum. cumcumcum, cumcum cum?
-            cumcum cum cum cum cum cumcumcum cum cumcum. cumcumcum cum cumcum.
+			This is a website I set up to learn about React, HTML and CSS. It is
+			currently a work in progress.
           </p>
         </div>
       </div>
