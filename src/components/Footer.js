@@ -18,7 +18,7 @@ function Footer() {
           <MailIcon />
         </a>
       </div>
-      <p> &copy; 2022 heimvik.me</p>
+      <p> &copy; 2023 heimvik.me</p>
     </div>
   );
 }
