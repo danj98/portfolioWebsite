@@ -8,7 +8,7 @@ function Projects() {
     
       <h1>Projects</h1>
 
-      <Collapsible trigger="Masters Project">
+      <Collapsible trigger="Masters Project" triggerTagName="div">
         <p>
           My masters project was about...
         </p>
@@ -16,7 +16,7 @@ function Projects() {
 
       <hr />
 
-      <Collapsible trigger="Arduino facial recognition">
+      <Collapsible trigger="Arduino facial recognition" triggerTagName="div">
         <p>
           This project was about...
         </p>
@@ -24,7 +24,7 @@ function Projects() {
 
       <hr />
 
-      <Collapsible trigger="Portfolio website">
+      <Collapsible trigger="Portfolio website" triggerTagName="div">
         <p>
           This project was about...
         </p>
@@ -32,7 +32,7 @@ function Projects() {
 
       <hr />
 
-      <Collapsible trigger="School projects">
+      <Collapsible trigger="School projects" triggerTagName="div">
         <p>
           This project was about...
         </p>

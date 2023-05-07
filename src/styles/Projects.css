@@ -14,11 +14,11 @@
   color: #fbf1c7;
   cursor: pointer;
   padding: 18px;
-  width: 80%;
+  width: 60%;
   border: none;
   text-align: center;
   outline: none;
-  font-size: 15px;
+  font-size: 25px;
 }
 
 .active, .Collapsible:hover {
@@ -26,16 +26,12 @@
 }
 
 .Collapsible:after {
-  content: '\002B';
   color: #fbf1c7;
   font-weight: bold;
   float: right;
   margin-left: 5px;
 }
 
-.active:after {
-  content: "\2212";
-}
 
 .content {
   padding: 0 18px;
