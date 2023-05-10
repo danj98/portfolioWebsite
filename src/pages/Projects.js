@@ -42,14 +42,23 @@ function Projects() {
       <hr />
 
       <Collapsible trigger="Portfolio website" triggerTagName="div">
+        <div className='project'>
+          <div className='text'>
+            <p>
+              This is the website you are currently viewing. It is built using <a href='https://reactjs.org/' target="_blank" rel="noreferrer">React</a>
+              &nbsp;and serves as a way for me to learn more about web development.
+            </p>
+            <p>
+              The code for this project can be found <a href='https://github.com/danj98/portfolioWebsite' target="_blank" rel="noreferrer">here</a>.
+            </p>
+          </div>
+        </div>
       </Collapsible>
 
       <hr />
 
       <Collapsible trigger="School projects" triggerTagName="div">
-        <p>
-          This project was about...
-        </p>
+  
       </Collapsible>
 
     </div>
