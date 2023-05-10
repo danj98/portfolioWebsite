@@ -11,7 +11,10 @@ function Projects() {
       <Collapsible trigger="Masters Project" triggerTagName="div">
         <div className='project'>
           <p>
-            I am currently working on my masters project. 
+            I am currently working on my masters thesis. The project is about using&nbsp;
+            <a href='https://en.wikipedia.org/wiki/Model-driven_engineering'>model-driven software engineering</a>
+            &nbsp;in order to abstract and simplify robot mission planning. The goal is to make it easier for non-programmers 
+            and domain-experts to create robot missions.
           </p>
         </div>
       </Collapsible>
@@ -39,9 +42,6 @@ function Projects() {
       <hr />
 
       <Collapsible trigger="Portfolio website" triggerTagName="div">
-        <p>
-          This project was about...
-        </p>
       </Collapsible>
 
       <hr />
