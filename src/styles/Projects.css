@@ -47,23 +47,38 @@
 
 .project {
   display: flex;
-  align-items: center;
+  flex-direction: row;
+  align-items: left;
   width: 80%;
   margin: 0 auto;
   padding: 0 18px;
   margin-top: 10px;
 }
 
+.project text {
+  display: flex;
+  flex-direction: column;
+}
+
 .project p {
   font-size: 18px;
   color: #fbf1c7;
   font-weight: lighter;
+  text-align: left;
 }
 
 .project img {
-  width: 30%;
+  width: 200px;
   height: 30%;
-  margin-right: 10px;
+  margin-right: 20px;
+}
+
+.project a {
+  text-decoration: none;
+  color: #fbf1c7;
+  font-size: 18px;
+  font-weight: lighter;
+  text-decoration: underline;
 }
 
 @media only screen and (max-width: 650px) {
