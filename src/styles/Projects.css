@@ -7,6 +7,7 @@
   width: 100%;
   height: 100%;
   background-color: #f1f1f1;
+  padding-bottom: 7cm;
 }
 
 .Collapsible {
@@ -19,6 +20,7 @@
   text-align: center;
   outline: none;
   font-size: 25px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 30));
 }
 
 .active, .Collapsible:hover {
@@ -32,7 +34,7 @@
   margin-left: 5px;
 }
 
-
+/*
 .content {
   padding: 0 18px;
   max-height: 0;
@@ -41,11 +43,27 @@
   width: 80%;
   margin: 0 auto;
 }
+*/
 
-.content p {
-  font-size: 15px;
-  color: #282828;
+.project {
+  display: flex;
+  align-items: center;
+  width: 80%;
+  margin: 0 auto;
+  padding: 0 18px;
+  margin-top: 10px;
+}
+
+.project p {
+  font-size: 18px;
+  color: #fbf1c7;
   font-weight: lighter;
+}
+
+.project img {
+  width: 30%;
+  height: 30%;
+  margin-right: 10px;
 }
 
 @media only screen and (max-width: 650px) {
@@ -56,3 +74,4 @@
     width: 100%;
   }
 }
+

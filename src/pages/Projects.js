@@ -17,9 +17,12 @@ function Projects() {
       <hr />
 
       <Collapsible trigger="Arduino facial recognition" triggerTagName="div">
-        <p>
-          This project was about...
-        </p>
+        <div className='project'>
+          <img src="https://github.com/danj98/ArduinoFaceTracker/raw/master/resources/prototype.jpg" alt="Arduino facial recognition" />
+          <p>
+            This project was about...
+          </p>
+        </div>
       </Collapsible>
 
       <hr />
