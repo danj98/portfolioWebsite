@@ -58,7 +58,18 @@ function Projects() {
       <hr />
 
       <Collapsible trigger="School projects" triggerTagName="div">
-  
+        <div className='project'>
+            <div className='text'>
+              <p>
+                I have done a few projects during my time at university. Most of them are group projects, but I have also done a few solo projects.
+                Here is a collection of some of the projects I have done along with a description. Not all of them are publicly available.
+              </p> 
+                <ul>
+                  <li>  </li>
+                  <li>  </li>
+                </ul>
+            </div>
+        </div>        
       </Collapsible>
 
     </div>
