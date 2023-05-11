@@ -17,14 +17,13 @@ function About() {
         <div>
           <h2> Who am I? </h2>
           <p>
-			I am Dan Joar, currently pursuing a masters degree in Software development.
-			My interests include programming, microcontrollers/arduino, electronics
-			and probably some other stuff.
+			I am Dan Joar Heimvik, currently pursuing a masters degree in Software development at UiB/HVL and I also have a bachelor's in cybersecurity from UiB.
+			My interests include programming, electronics, and probably some other stuff.
           </p>
           <h2> What is this website? </h2>
           <p>
-			This is a website I set up to learn about React, HTML and CSS. It is
-			currently a work in progress.
+            This is a website that I built as a playground to learn some web development and to have a place to showcase my projects.
+            The website is built using React.
           </p>
         </div>
       </div>

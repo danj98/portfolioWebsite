@@ -36,6 +36,7 @@
     margin-right: 3%;
 	margin-left: 3%;
 	float: center;
+   font-size: 20px;
   }
 
   .aboutBottom h2 {
@@ -44,8 +45,8 @@
 	float: center;
 	margin-right: 3%;
 	margin-left: 3%;
-    align-items: center;
-	justify-content: center;
+    align-items: left;
+	justify-content: left;
     font-size: 35px;
     color: #282828;
   }
