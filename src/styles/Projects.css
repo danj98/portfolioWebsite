@@ -81,6 +81,33 @@
   text-decoration: underline;
 }
 
+.project lists {
+  display: flex;
+  flex-direction: row;
+}
+
+.project li {
+  color: #fbf1c7;
+  font-weight: lighter;
+  text-align: left;
+  font-size: 18px;
+}
+
+.project lists li p {
+  color: #fbf1c7;
+  font-weight: lighter;
+  text-align: left;
+}
+
+.project lists li u {
+  color: #fbf1c7;
+  font-weight: lighter;
+  text-align: left;
+  font-size: larger;
+}
+
+
+
 @media only screen and (max-width: 650px) {
   .Collapsible {
     width: 100%;
