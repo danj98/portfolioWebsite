@@ -62,7 +62,7 @@ function Projects() {
             <div className='text'>
               <p>
                 I have done a few projects during my time at university. Some of them are group projects, but I have also done some solo projects.
-                Here is a collection of some of the projects and course I have done along with a description. Not all of them are publicly available.
+                Here is a collection of some of the projects and courses I have done along with a description. Not all of them are publicly available.
               </p> 
               <div className='lists'>
                 <ul>
