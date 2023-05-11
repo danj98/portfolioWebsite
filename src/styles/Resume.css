@@ -1,0 +1,49 @@
+.resume {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    text-align: left;
+    background-color: #f1f1f1;
+}
+
+
+.terminal {
+    background-color: #1d2021;
+    color: #fff;
+    font-family: monospace;
+    height: 100%;
+    width: 60%;
+    overflow-y: scroll;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #000;
+    margin: 20px;
+    font-size: 20px;
+  }
+  
+  .output {
+    line-height: 1.5;
+  }
+  
+  .prompt {
+    color: #a9b665;
+  }
+  
+  .command {
+    color: #a9b665;
+  }
+  
+  .line {
+    color: #d4be98;
+  }
+  
+  .out {
+    color: #d3869b;
+  }
+
+  .string {
+    color: #d8a657;
+  }
+  
